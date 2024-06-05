@@ -21,3 +21,5 @@ def hesap_makinesi():
 
 if __name__ == "__main__":
     hesap_makinesi()
+
+# I know it's so bad
